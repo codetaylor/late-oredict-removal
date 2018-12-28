@@ -1,0 +1,16 @@
+[
+{
+  "modid": "lateoredictremoval",
+  "name": "Late OreDict Removal",
+  "description": "Post-init removal of OreDict entries.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["codetaylor"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
